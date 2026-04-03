@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samer%20Alalili&fontSize=70&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20|%20Linux%20administrator&descSize=20&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samer%20Alalili&fontSize=70&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20|%20Linux%20Administrator&descSize=20&descAlignY=75" width="100%" />
 </div>
 
 <div align="center">
@@ -10,10 +10,10 @@
     <em>Architecting scalable, high-performance web applications with .NET and modern frontend architecture<br/></em>
   </p>
   
-  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marobakr.marobakr)](https://github.com/marobakr)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-abubakr-2b504528a)
-  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@GeekCodeDev)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marwanabubakr0o.o0@gmail.com)
+  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marobakr.marobakr)](https://github.com/samerrazzaqh)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samerrazzaqh)
+  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@samerrazzaqh)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samerrazzaqh@gmail.com)
   
 </div>
 
@@ -25,21 +25,21 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="Angular"/>
-      <br/><strong>Angular</strong>
-      <br/><sub>v17, v18, v19</sub>
+      <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" height="50" alt=".NET"/>
+      <br/><strong>Web APPs</strong>
+      <br/><sub>ASP.NET Core & Blazor</sub>
       <br/><sub>Signals, Standalone Components</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/server.png" height="50" alt="SSR"/>
-      <br/><strong>SSR & SSG</strong>
-      <br/><sub>Prerendering, Hydration</sub>
+      <img src="https://images.icon-icons.com/1282/PNG/512/1497619669-androidmobile-phone_85137.png" height="50" alt="APPs"/>
+      <br/><strong>Mobile & Desktop APPs</strong>
+      <br/><sub>.NET Maui & Flutter & Swift & Java</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/search.png" height="50" alt="SEO"/>
-      <br/><strong>SEO Optimization</strong>
-      <br/><sub>Meta Tags, Schema.org</sub>
-      <br/><sub>Core Web Vitals</sub>
+      <img src="https://images.icon-icons.com/46/PNG/128/linux_penguin_animal_9362.png" height="50" alt="Linux"/>
+      <br/><strong>Linux Administrator</strong>
+      <br/><sub>RHCE & RHCSA</sub>
+       <br/><sub>CentOS & RedHat</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/speed.png" height="50" alt="Performance"/>
