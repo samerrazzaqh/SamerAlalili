@@ -165,6 +165,8 @@ while (alive) {
 [Android Sqlite](https://github.com/samerrazzaqh/SQLite-Kotlin)  - A sample Android redesign app using Kotlin with Sqlite Form features.</br>
 [PizzaApp-XML](https://github.com/samerrazzaqh/PizzaApp-XML)  - A sample Maui redesign app using C# Form features.</br>
 [MVVM-Maui-XML](https://github.com/samerrazzaqh/MVVM-Maui)  - A sample Maui redesign app using C# Form features.</br>
+[Swift MawiadUS Sqlite](https://github.com/samerrazzaqh/MawiadUS-Swift-Sqlite)  - A sample XCode redesign app using Swift Form features.</br>
+
 
 
 
