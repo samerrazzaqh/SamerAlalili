@@ -159,7 +159,7 @@ while (alive) {
 [Flutter CMS](https://github.com/samerrazzaqh/FlutterAPI?tab=readme-ov-file)  - A sample CMS &API redesign app using Flutter features.</br>
 [Backend .NET SchoolProjectInCleanArchitecture](https://github.com/samerrazzaqh/SchoolProjectCleanArchitecture/tree/master)  - A sample CleanArchitecture app using .NET features.</br>
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.</br>
-
+[Flutter SQLite](https://github.com/samerrazzaqh/khudaba-SQLite)  - A sample Flutter redesign app using Flutter with Sqlite Form features.</br>
 
 
 ---
