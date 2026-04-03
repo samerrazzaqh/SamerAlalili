@@ -160,7 +160,7 @@ while (alive) {
 ---
 ## Sample Apps
 
-[CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.
+[CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.</br>
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.
 
 
