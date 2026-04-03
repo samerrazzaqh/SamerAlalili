@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Marwan%20Abubakr&fontSize=70&fontColor=fff&animation=fadeIn&desc=Expert%20Angular%20Developer%20%7C%20SSR%20%7C%20Performance%20Optimization&descSize=20&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Samer%20Alalili&fontSize=70&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20|%20Linux%20administrator&descSize=20&descAlignY=75" width="100%" />
 </div>
 
 <div align="center">
   
-  ### 👨‍💻 Senior Angular Developer & Performance Specialist
+  ### 👨‍💻 Software  Developer
   
   <p>
-    <em>Architecting scalable, high-performance web applications with Angular<br/>
-    Specialized in SSR, SEO optimization, and modern frontend architecture</em>
+    <em>Architecting scalable, high-performance web applications with .NET and modern frontend architecture<br/></em>
   </p>
   
   [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marobakr.marobakr)](https://github.com/marobakr)
