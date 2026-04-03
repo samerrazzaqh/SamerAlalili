@@ -53,54 +53,6 @@
 
 ---
 
-## 📖 Developer Documentation
-
-<div align="center">
-
-I maintain comprehensive technical documentation on Notion covering various technologies and best practices. These resources are designed to help developers at all levels master modern web development.
-<table>
-  <tr>
-    <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular"/>
-      <br/><strong>Angular</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/Angular-Documentation-2a43068e0ca0802ebe51e350d5a0fa14">📚 View Docs</a></sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
-      <br/><strong>JavaScript</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/JavaScript-Documentation-2a43068e0ca080bf89ccd6f3e69d46bb">📚 View Docs</a></sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript"/>
-      <br/><strong>TypeScript</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/TypeScript-ff0506711b584a829e60af3d6bfa8a59?pvs=74">📚 View Docs</a></sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="SCSS"/>
-      <br/><strong>SCSS</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/SCSS-f10cb93db5304442b15be255c2c331f8?pvs=74">📚 View Docs</a></sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>
-      <br/><strong>Git & GitHub</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/GitHub-16fed48d9f6a477a9ca222d48ba447f0?pvs=74">📚 View Docs</a></sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="40" alt="C#"/>
-      <br/><strong>C#</strong>
-      <br/><sub><a href="https://marwanabubakr-dev.notion.site/C-Documentation-2a43068e0ca0803f9392d4b5a0a77849">📚 View Docs</a></sub>
-    </td>
-  </tr>
-</table>
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Status-Regularly_Updated-success?style=for-the-badge)
-
-</div>
-
----
-
 ## 🛠️ Technology Stack
 
 ### **Frontend Development**
