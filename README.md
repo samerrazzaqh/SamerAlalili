@@ -137,7 +137,7 @@ I'm always interested in collaborating on innovative projects and discussing .NE
 
 ---
 
-<div align="center">
+<div align="strart">
   
 ### 💭 Quote of the Day
 
@@ -155,6 +155,14 @@ while (alive) {
   repeat();
 }
 ```
+
+
+---
+## Sample Apps
+
+[CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.
+[CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.
+
 
 ---
 
