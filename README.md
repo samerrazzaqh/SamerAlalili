@@ -162,6 +162,7 @@ while (alive) {
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.</br>
 [Flutter SQLite](https://github.com/samerrazzaqh/khudaba-SQLite)  - A sample Flutter redesign app using Flutter with Sqlite Form features.</br>
 [Flutter Firebaseapp](https://github.com/samerrazzaqh/Flutter-firebaseapp)  - A sample Flutter redesign app using Flutter with Firebaseapp Form features.</br>
+[Android Sqlite](https://github.com/samerrazzaqh/SQLite-Kotlin)  - A sample Android redesign app using Kotlin with Salitr Form features.</br>
 
 
 ---
