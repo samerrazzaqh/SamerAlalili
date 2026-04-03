@@ -156,6 +156,7 @@ while (alive) {
 
 [CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.</br>
 [Maui Blazor](https://github.com/samerrazzaqh/CMSMaui-NET/blob/master/README.md)  - A sample CMS Maui Blazor redesign app using .NET Blazor features.</br>
+[Backend .NET SchoolProjectInCleanArchitecture](https://github.com/samerrazzaqh/SchoolProjectCleanArchitecture/tree/master)  - A sample CleanArchitecture app using .NET features.</br>
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.</br>
 
 
