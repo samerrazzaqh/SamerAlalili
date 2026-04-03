@@ -166,6 +166,8 @@ while (alive) {
 [PizzaApp-XML](https://github.com/samerrazzaqh/PizzaApp-XML)  - A sample Maui redesign app using C# Form features.</br>
 [MVVM-Maui-XML](https://github.com/samerrazzaqh/MVVM-Maui)  - A sample Maui redesign app using C# Form features.</br>
 [Swift MawiadUS Sqlite](https://github.com/samerrazzaqh/MawiadUS-Swift-Sqlite)  - A sample XCode redesign app using Swift Form features.</br>
+[HTML-CSS-Tailwind](https://github.com/samerrazzaqh/HTML-CSS-Tailwind)  - A sample Design redesign apps using HTML-CSS-Tailwind Form features.</br>
+
 
 
 
