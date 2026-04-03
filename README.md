@@ -146,6 +146,7 @@ while (alive) {
   eat();
   sleep();
   code();
+  sport();
   repeat();
 }
 ```
