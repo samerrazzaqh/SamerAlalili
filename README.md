@@ -68,7 +68,7 @@ I maintain comprehensive technical documentation on Notion covering various tech
       <br/><sub><a href="https://drive.google.com/drive/u/0/folders/1mMM3NMxO-fwZsQgD2oB2l-vLWGH9-ikg">📚 View Docs</a></sub>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://images.icon-icons.com/46/PNG/128/linux_penguin_animal_9362.png" height="40" alt="Devops"/>
+      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/kubernetes-s8jwn3vs1hszcbaz6pqu7b.png/kubernetes-oije5l2tm8efxygf8ozhe.png?_a=DATAiZAAZAA0" height="40" alt="Devops"/>
       <br/><strong>DevOps</strong>
       <br/><sub><a href="https://drive.google.com/drive/u/0/folders/1a-RnldK8pgrR3HIWSiTwkxpjDCPNg6er">📚 View Docs</a></sub>
     </td>
