@@ -184,7 +184,7 @@ while (alive) {
 [CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.</br>
 [CMScore-Asp-Net](https://github.com/samerrazzaqh/CMScore-Asp-Net/tree/master)  - A sample CMScore-Asp-Net redesign web app using CMScore-Asp-Net features.</br>
 [Maui Blazor](https://github.com/samerrazzaqh/CMSMaui-NET/blob/master/README.md)  - A sample CMS Maui Blazor redesign app using .NET Blazor features.</br>
-[CleanArchitecture-Ecom](https://github.com/samerrazzaqh/Backend-Ecom-NET)  - A sample CleanArchitecture-Ecom app using .NET features.</br>
+[CleanArchitecture-Backend-Ecom-NET](https://github.com/samerrazzaqh/Backend-Ecom-NET/tree/master)  - A sample CleanArchitecture-Ecom app using .NET features.</br>
 [Flutter CMS](https://github.com/samerrazzaqh/FlutterAPI?tab=readme-ov-file)  - A sample CMS &API redesign app using Flutter features.</br>
 [Backend .NET SchoolCleanArchitecture](https://github.com/samerrazzaqh/Backend-SchoolCleanArchitecture/tree/master)  - A sample CleanArchitecture app using .NET features.</br>
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.</br>
