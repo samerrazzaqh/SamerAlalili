@@ -181,6 +181,7 @@ while (alive) {
 ---
 ## Sample Projects
 
+[Authentication Authorization Laraval13]([https://github.com/samerrazzaqh/CMSBlazor-API](https://github.com/samerrazzaqh/Authentication_Authorization_Laraval13))  - A sample Authentication Authorization Laraval13 redesign app using PHP.</br>
 [CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.</br>
 [CMScore-Asp-Net](https://github.com/samerrazzaqh/CMScore-Asp-Net/tree/master)  - A sample CMScore-Asp-Net redesign web app using CMScore-Asp-Net features.</br>
 [Maui Blazor](https://github.com/samerrazzaqh/CMSMaui-NET/blob/master/README.md)  - A sample CMS Maui Blazor redesign app using .NET Blazor features.</br>
