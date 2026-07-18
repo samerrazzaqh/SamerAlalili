@@ -111,7 +111,7 @@ I maintain comprehensive technical documentation on Notion covering various tech
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6c78af?style=for-the-badge&logo=php&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
