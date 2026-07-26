@@ -184,22 +184,37 @@ while (alive) {
 ---
 ## Sample Projects
 
+## Sample Projects - PHP
 
+[Role Authentication Permission API PHP](https://github.com/samerrazzaqh/Role-Authentication-Permission-API-PHP) - A sample Role Authentication Permission API Laraval redesign app using PHP.</br>
 [Ecommerce-API-PHP](https://github.com/samerrazzaqh/Ecommerce-API-PHP) - A sample Ecommerce API PHP Laraval redesign app using PHP.</br>
 [Authentication Authorization Laraval13](https://github.com/samerrazzaqh/Authentication_Authorization_Laraval13) - A sample Authentication Authorization Laraval13 redesign app using PHP.</br>
+
+## Sample Projects - .NET Blazor Maui
+
 [CMS Blazor](https://github.com/samerrazzaqh/CMSBlazor-API)  - A sample CMS Blazor redesign app using .NET Blazor features.</br>
 [CMScore-Asp-Net](https://github.com/samerrazzaqh/CMScore-Asp-Net/tree/master)  - A sample CMScore-Asp-Net redesign web app using CMScore-Asp-Net features.</br>
 [Maui Blazor](https://github.com/samerrazzaqh/CMSMaui-NET/blob/master/README.md)  - A sample CMS Maui Blazor redesign app using .NET Blazor features.</br>
 [CleanArchitecture-Backend-Ecom-NET](https://github.com/samerrazzaqh/Backend-Ecom-NET/tree/master)  - A sample CleanArchitecture-Ecom app using .NET features.</br>
-[Flutter CMS](https://github.com/samerrazzaqh/FlutterAPI?tab=readme-ov-file)  - A sample CMS &API redesign app using Flutter features.</br>
 [Backend .NET SchoolCleanArchitecture](https://github.com/samerrazzaqh/Backend-SchoolCleanArchitecture/tree/master)  - A sample CleanArchitecture app using .NET features.</br>
 [CSMS Desktop](https://github.com/samerrazzaqh/CSMS-Desktop/tree/master)  - A sample CSMS redesign app using .NET Form features.</br>
-[Flutter SQLite](https://github.com/samerrazzaqh/khudaba-SQLite)  - A sample Flutter redesign app using Flutter with Sqlite Form features.</br>
-[Flutter Firebaseapp](https://github.com/samerrazzaqh/Flutter-firebaseapp)  - A sample Flutter redesign app using Flutter with Firebaseapp Form features.</br>
-[Android Sqlite](https://github.com/samerrazzaqh/SQLite-Kotlin)  - A sample Android redesign app using Kotlin with Sqlite Form features.</br>
 [PizzaApp-XML](https://github.com/samerrazzaqh/PizzaApp-XML)  - A sample Maui redesign app using C# Form features.</br>
 [MVVM-Maui-XML](https://github.com/samerrazzaqh/MVVM-Maui)  - A sample Maui redesign app using C# Form features.</br>
+
+
+## Sample Projects - Flutter
+
+[Flutter CMS](https://github.com/samerrazzaqh/FlutterAPI?tab=readme-ov-file)  - A sample CMS &API redesign app using Flutter features.</br>
+[Flutter SQLite](https://github.com/samerrazzaqh/khudaba-SQLite)  - A sample Flutter redesign app using Flutter with Sqlite Form features.</br>
+[Flutter Firebaseapp](https://github.com/samerrazzaqh/Flutter-firebaseapp)  - A sample Flutter redesign app using Flutter with Firebaseapp Form features.</br>
+
+## Sample Projects - Android-JAVA
+[Android Sqlite](https://github.com/samerrazzaqh/SQLite-Kotlin)  - A sample Android redesign app using Kotlin with Sqlite Form features.</br>
+
+## Sample Projects - XCode-Swift
 [Swift MawiadUS Sqlite](https://github.com/samerrazzaqh/MawiadUS-Swift-Sqlite)  - A sample XCode redesign app using Swift Form features.</br>
+
+## Sample Projects - HTML CSS Tailwind JavaScript
 [HTML-CSS-Tailwind](https://github.com/samerrazzaqh/HTML-CSS-Tailwind)  - A sample Design redesign apps using HTML-CSS-Tailwind Form features.</br>
 
 
