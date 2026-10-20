@@ -92,6 +92,12 @@ I maintain comprehensive technical documentation on Notion covering various tech
 
 </div>
 
+* **Technologies Used:**
+  * **ArgoCD:** For GitOps continuous delivery.
+  * **Helm:** For Kubernetes package management.
+  * **Kubernetes:** For container orchestration.
+  * **Grafana & Cert-Manager:** For monitoring, observability, and SSL certificate management.
+
 ### **Styling & UI Frameworks**
 
 <div align="center">
@@ -183,6 +189,13 @@ while (alive) {
 
 ---
 ## Sample Projects
+
+## Sample Projects - DevOps
+
+[Project 1 / coursedevops](https://github.com/samerrazzaqh/coursdevops) ** - A comprehensive DevOps deployment setup utilizing **ArgoCD**, **Helm Charts**, **Kubernetes**, and **Grafana** for monitoring and automated application delivery.</br>
+
+
+##
 
 ## Sample Projects - PHP
 
