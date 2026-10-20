@@ -126,11 +126,7 @@ I maintain comprehensive technical documentation on Notion covering various tech
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-* **Technologies Used:**
-  * **ArgoCD:** For GitOps continuous delivery.
-  * **Helm:** For Kubernetes package management.
-  * **Kubernetes:** For container orchestration.
-  * **Grafana & Cert-Manager:** For monitoring, observability, and SSL certificate management.
+
 ---
 
 ## 🤝 Let's Connect
