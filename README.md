@@ -190,10 +190,12 @@ while (alive) {
 
 ## Sample Projects - DevOps
 
-[Project 1 / coursedevops](https://github.com/samerrazzaqh/coursdevops) ** - A comprehensive DevOps deployment setup utilizing **ArgoCD**, **Helm Charts**, **Kubernetes**, and **Grafana** for monitoring and automated application delivery.</br>
+[Project 1 / coursedevops](https://github.com/samerrazzaqh/coursdevops) ** - A comprehensive DevOps deployment setup utilizing **ArgoCD**, **Helm Charts**, **Kubernetes**, **Prometheus**, **Loki**, **Kyverno**, and **Grafana** for monitoring and automated application delivery.</br>
+Containerize, Deploy, Package with Helm, Protect secrets, Automate CI/CD, Apply GitOps, Monitor workloads, Harden production.</br>
 
 
-[Project 2 / appecom](https://github.com/samerrazzaqh/appecom) ** - A comprehensive DevOps deployment setup utilizing **ArgoCD**, **Helm Charts**, **Kubernetes**, and **Grafana** for monitoring and automated application delivery.</br>
+[Project 2 / appecom](https://github.com/samerrazzaqh/appecom) ** - A comprehensive DevOps deployment setup utilizing **ArgoCD**, **Helm Charts**, **Kubernetes**, **Prometheus**, **Loki**, **Kyverno**, and **Grafana** for monitoring and automated application delivery.</br>
+Containerize, Deploy, Package with Helm, Protect secrets, Automate CI/CD, Apply GitOps, Monitor workloads, Harden production.</br>
 ##
 
 ## Sample Projects - PHP
